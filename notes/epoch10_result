@@ -1,0 +1,10 @@
+Hozirgi baseline natijani alohida yozib qo‘ying:
+
+Model: U-Net baseline
+Epoch: 10
+Best Val Dice: 0.7768
+Loss function: BCEWithLogitsLoss
+Image size: 256x256
+Batch size: 4
+Optimizer: Adam
+LR: 1e-4

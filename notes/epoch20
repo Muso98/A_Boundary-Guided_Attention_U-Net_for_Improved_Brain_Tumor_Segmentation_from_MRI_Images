@@ -1,0 +1,8 @@
+Model: U-Net
+Loss: BCE + Dice
+Epoch: 20
+Best epoch: 19
+Best Dice: 0.8113
+Image size: 256x256
+Batch size: 4
+Optimizer: Adam (lr=1e-4)
