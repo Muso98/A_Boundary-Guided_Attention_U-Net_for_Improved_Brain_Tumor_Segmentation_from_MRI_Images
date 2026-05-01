@@ -52,7 +52,7 @@ def main():
     model = LightweightHybridUNet(in_channels=1, out_channels=1).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
 
-    epochs = 20
+    epochs = 50
     best_val_dice = 0.0
 
     os.makedirs("checkpoints/hybrid_v2", exist_ok=True)

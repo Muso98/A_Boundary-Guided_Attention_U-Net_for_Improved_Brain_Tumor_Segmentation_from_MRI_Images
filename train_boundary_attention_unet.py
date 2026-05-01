@@ -20,7 +20,7 @@ SAVE_PATH = "best_boundary_attention_unet.pth"
 # ==== HYPERPARAMETERS ====
 BATCH_SIZE = 8
 LR = 1e-4
-EPOCHS = 20
+EPOCHS = 50
 VAL_RATIO = 0.2
 BOUNDARY_WEIGHT = 0.3
 

@@ -22,7 +22,7 @@ PRETRAINED_ATTENTION_PATH = r"D:\for_paper\checkpoints\attention_unet\best_atten
 # ===== HYPERPARAMETERS =====
 BATCH_SIZE = 8
 LR = 1e-4
-EPOCHS = 25
+EPOCHS = 50
 VAL_RATIO = 0.2
 BOUNDARY_WEIGHT = 0.10
 BOUNDARY_DILATION = 3
