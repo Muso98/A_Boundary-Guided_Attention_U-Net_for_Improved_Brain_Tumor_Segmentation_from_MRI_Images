@@ -166,13 +166,19 @@ python visual_results_boundary_attention_unet_v2.py
 
 ---
 
+## Authors
+
+Musabek Musaev, Mirafzal Mirholikov, Akmalbek Abdusalomov, Renat Abdirayimov, Lutfulla Murodjonov, Gulkhayo Urinova, Kyandoghere Kyamakya, Selain Kasereka
+
+---
+
 ## Citation
 
 If you use this code in your research, please cite this repository:
 
 ```bibtex
 @misc{muso98_bga_unet_2024,
-  author       = {Author1, Author2, ...},
+  author       = {Musabek Musaev and Mirafzal Mirholikov and Akmalbek Abdusalomov and Renat Abdirayimov and Lutfulla Murodjonov and Gulkhayo Urinova and Kyandoghere Kyamakya and Selain Kasereka},
   title        = {A Boundary-Guided Attention U-Net for Improved Brain Tumor Segmentation from MRI Images},
   year         = {2026},
   howpublished = {\url{https://github.com/Muso98/A_Boundary-Guided_Attention_U-Net_for_Improved_Brain_Tumor_Segmentation_from_MRI_Images}}
