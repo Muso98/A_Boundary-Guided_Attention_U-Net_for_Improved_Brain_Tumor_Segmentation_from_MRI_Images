@@ -14,7 +14,4 @@ __pycache__/
 .vscode/
 
 # Large model files and datasets
-*.pth
-*.pt
 data/
-checkpoints/
